@@ -1,4 +1,4 @@
 # Javascript-Practice
 
-This repository contains the javascript projects 
+This repository contains the basic javascript projects to learn the javascript concepts
 
